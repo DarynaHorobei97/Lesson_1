@@ -9,11 +9,6 @@ public class Car {
         System.out.println(weight);
     }
 
-    public Car(String engine, float weight) {
-        this.engine = engine;
-        this.weight = weight;
-    }
-
     public String getEngine() {
         return engine;
     }
@@ -31,6 +26,6 @@ public class Car {
     }
 
     public static void main(String[] args) {
-       // Car car = new Car();
+        Car car = new Car();
     }
 }
