@@ -30,5 +30,7 @@ public class Car {
         Car car1 = new Car();
         Car car3 = new Car();
 
+        System.out.println("aaaaaaaa");
+
     }
 }
