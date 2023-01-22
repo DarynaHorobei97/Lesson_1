@@ -17,9 +17,6 @@ public class Car {
         this.engine = engine;
     }
 
-    public float getWeight() {
-        return weight;
-    }
 
     public void setWeight(float weight) {
         this.weight = weight;
